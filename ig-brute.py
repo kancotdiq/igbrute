@@ -43,9 +43,6 @@ def login():
 
 
 def dapat_():
-    f = open ('hasil.txt','w')
-    f.write("Username " + username + ">>> " + "Password " + password)
-    f.close
     keluar()
 
 
