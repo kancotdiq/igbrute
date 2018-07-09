@@ -52,7 +52,7 @@ def mulai():
                 print "[+] Berhasil Login ..."
                 keluar()
             else:
-                os.system("clear")
+                os.system("cls")
             username = f.readline()
     except:
         f.close()
