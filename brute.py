@@ -30,8 +30,8 @@ def options():
     mulai()
 
 def keluar():
-    f.close()
 	print "[!] Keluar ..."
+	f.close()
 	os.sys.exit()
 
 def mulai():
