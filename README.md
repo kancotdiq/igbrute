@@ -1,5 +1,5 @@
 # igbrute
-v.1
+v.2
 
 Cara pakai :
 
